@@ -1,40 +1,25 @@
-## Welcome to GitHub Pages
+## Hello I'm Sharlikran
 
-- [TES5Edit](https://tes5edit.github.io/)
-- [Wrye Mash/Flash/Bash](https://wrye-code-collection.github.io/)
+Eventually once I figure out how to do it I will have a separate Bio page but for now this will have to do.
 
-You can use the [editor on GitHub](https://github.com/Sharlikran/sharlikran.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+My name is pronounced SHär-li-kran. I started working with BOSS on April 15 2012. While working with BOSS I was told there was no TES5Edit and nobody had been in touch with the author ElminsterAU. They also told me that I would never get the source code to the program because he guarded it as if he were the Troll in Three Billy Goats Gruff. However, with the help of people in the Skyrim community I was able to get a hold of Elminster and after asking for the Source code he gave it to me. He was not the evil troll others had made him out to be but a very kind individual and he was grateful there was someone willing to update TES5Edit. To this day he is very helpful and always answers my xEdit related questions.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+About July of 2012 work on TES5Edit finally became a group project when Zilav started helping and was released about October of the same year. During that time there was quite a fuss over TESVSnip and it was removed from the Nexus because of its flaws. I tried to get volunteers to fix it but in the end none of the major issues were ever resolved and still remain unresolved to this day. Anyone using TESVSnip or FalloutSnip, should repent their sins.
 
-### Markdown
+These days I work on my own Bethesda mods, the various iterations of xEdit (TES5Edit, SSEEdit, FO4Edit, etc) and port record definitions to Wrye Bash/Flash. I very occasionally update the BOSS or LOOT masterlist. One way or another I work with devoted individuals on many different Bethesda related utilities all for the benefit of the players who enjoy Elder Scrolls and Fallout as much as I do.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+#### Gaming History:
 
-```markdown
-Syntax highlighted code block
+I have tried Neverwinter, DDO, Warframe, EVE (hate this game), Elite Dangerous, but mostly played WOW. Aside from playing WOW and raiding for many years, my community involvement started with Bethesda games such as Morrowind, Fallout 3, FNV, FO4, Skyrim/SSE, and Oblivion. I don't think I could list every game I have played in the last 20 years. I don't have favorites and I can't explain why I have that philosophy. However, I did like Day of the Tentacle, Full Throttle, and Leisure Suit Larry from the early days.
 
-# Header 1
-## Header 2
-### Header 3
+#### Interests and Hobbies:
 
-- Bulleted
-- List
+I have a family of 5 and I work with computers only. Tech support, Intel, and any computer based company I can get hired at. So I don't carve wood or work on cars or motorcycles. Although I have done all those things and I still have to finish restoring my Father's 1966 BSA Hornet Spitfire.  Because of my heavy computer and electronic background all of my five children play console and PC games also.
 
-1. Numbered
-2. List
+#### Meaning of my name:
 
-**Bold** and _Italic_ and `Code` text
+I have always had the name Sharlikran even back when I ran a BBS. I played D&D and it was an Elf Character from The Elves of Alfheim. When I was actively running my BBS, I attending a BBS party for Halloween and we were asked to be our handle. So I went as an Elf, in full garb, cape, and pole arm which was really the pole from my closet I hung my clothes on. I think my tunic was a bit too short and was a bit too realistic compared to the pictures I saw in D&D books as it didn't hide much. I can't remember the BBS name but it had the name Heart in it, Heartbeats maybe. I won the contest for dressing as my Handle, which was my D&D Elf character. I won a calculator that at the time was probably the coolest thing I could have gotten.  Mainly because it had the ability to convert decimal to Hex.
 
-[Link](url) and ![Image](src)
-```
+#### Favorite quote:
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Sharlikran/sharlikran.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+A notable quote is from the title of the second autobiography by Richard Feynman, "What Do You Care What Other People Think?" Which is the second of two books from the American physicist. The first being, "Surely You're Joking, Mr. Feynman!" That book was introduced to me by ElminsterAU himself and will stick with me for the rest of my days.
