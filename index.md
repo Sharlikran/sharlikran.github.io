@@ -20,6 +20,6 @@ I have a family of 5 and I work with computers only. Tech support, Intel, and an
 
 I have always had the name Sharlikran even back when I ran a BBS. I played D&D and it was an Elf Character from The Elves of Alfheim. When I was actively running my BBS, I attending a BBS party for Halloween and we were asked to be our handle. So I went as an Elf, in full garb, cape, and pole arm which was really the pole from my closet I hung my clothes on. I think my tunic was a bit too short and was a bit too realistic compared to the pictures I saw in D&D books as it didn't hide much. I can't remember the BBS name but it had the name Heart in it, Heartbeats maybe. I won the contest for dressing as my Handle, which was my D&D Elf character. I won a calculator that at the time was probably the coolest thing I could have gotten.  Mainly because it had the ability to convert decimal to Hex.
 
-#### Favorite quote:
+#### Notable quote:
 
 A notable quote is from the title of the second autobiography by Richard Feynman, "What Do You Care What Other People Think?" Which is the second of two books from the American physicist. The first being, "Surely You're Joking, Mr. Feynman!" That book was introduced to me by ElminsterAU himself and will stick with me for the rest of my days.
