@@ -4,10 +4,12 @@ I have worked on various mods and tools made to work with Bethesda games. If you
 
 If you wonder what kind of computer I have you can [[https://pastebin.com/b4r0vtU0 | click this link]].
 
-<a href="https://www.nexusmods.com/Core/Libs/Common/Widgets/PayPalPopUp?user=4147439" class="drkbtn">Thanks</a></p>
+{{nbb}}
+    [[https://www.nexusmods.com/Core/Libs/Common/Widgets/PayPalPopUp?user=4147439 | Thanks]]
+{{nbe}}
 
 ### About Me
-{{CONTENTS=2}}
+{{CONTENTS=3}}
 ## Other GitHub repositories:
 In addition to the main projects I work on I have a few repositories for things of interest to me.
 
