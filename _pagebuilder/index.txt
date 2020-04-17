@@ -18,7 +18,9 @@ A collection of Elder Scrolls Online code and mods I have worked on or contribut
 
 The second thing I added was a way to import data from other people so you could share it. This was done with a separate mod HarvestMerge. I do not know how people merge data these days. Maybe with an update it could be useful again.
 
-<a href="https://github.com/ESOUIMods/" class="drkbtn">ESOUIMods</a>
+{{nbb}}
+    [[https://esouimods.github.io/ | ESOUIMods]]
+{{nbe}}
 
 ### TESnip-Skyrim-Edition
 
