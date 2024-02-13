@@ -24,6 +24,15 @@ The Dimabrush system has changed how we maintain the store, putting more demand 
 
 To adjust to the new system, we need to retrain our maintenance team. It's crucial to ensure they can handle their tasks efficiently and utilize the extra time for sales floor maintenance. However, our current Academy Trainer, managing cashiers and customer service, might find it tough to cover all the details of maintenance tasks. That's why we need a dedicated Maintenance Academy Trainer, to specialize in the unique training requirements of our maintenance team, making them more effective and focused.
 
+
+### Planning restoration routes
+
+{{image_thumbnail:empty_floor.jpg | empty_floor}}
+
+{{image_thumbnail:restoration_floor_plan.jpg | restoration_floor_plan}}
+
+Another crucial reason for having a dedicated Maintenance Academy Trainer is to ensure the efficient execution of the restoration process. The wear and tear on restoration discs necessitate timely replacements, especially before completing a full restoration of the sales floor. After which, maintaining an appropriate inventory of polymer discs will be essential for daily use with the Minuteman and T500 scrubbers ensuring a consistent and polished appearance, aligning with the standards set by the new Dimabrush system.
+
 ## Market Support and Rationale
 
 The implementation of the Dimabrush system is a Market initiative. In support of this transition, it stands to reason there will be additional resources and budget allocations earmarked to assist store managers in meeting the updated standards. This includes additional employees, in our case a new cart associate and Maintenance Academy Trainer, to meet the increased demands on store maintenance.
