@@ -12,6 +12,10 @@ If you're curious about my current system specs, you can [[https://pastebin.com/
 
 I’m still using a Windows 7 system with aging hardware, which limits my ability to work on newer tools, test modern games like Starfield, or fully keep up with ESO modding. More and more software — including things like Steam, Discord, and Element — have dropped support for Windows 7, making it harder to stay current or collaborate effectively.
 
+{{nbb}}
+    [[https://secure.newegg.com/wishlist/pd/23797158 | System Upgrade Wishlist]]
+{{nbe}}
+
 ### About Me
 {{CONTENTS=3}}
 ## Other GitHub repositories:
