@@ -1,71 +1,144 @@
 {{PAGETITLE="Sharlikran"}}
 ## Thanks for visiting my page:
-I have worked on various mods and tools made to work with Bethesda games. If you have wondered if there is some way you could help me get a Starbucks or a burger, maybe even help me in updating my computer so I can continue working on mods and tools then you can always click the following button.
+I’ve worked on a number of tools and mods created for Bethesda games over the years. If you've ever used one and wondered how you could say thanks — whether it's for a Starbucks, a burger, or even helping with computer upgrades so I can keep modding — I truly appreciate the support.
 
-If you wonder what kind of computer I have you can [[https://pastebin.com/b4r0vtU0 | click this link]].
+If you're curious about my current system specs, you can [[https://pastebin.com/T40cuHNR | click this link]].
 
 {{nbb}}
     [[https://www.nexusmods.com/users/4147439 | Thanks]]
 {{nbe}}
 
+### System Limitations and Future Plans
+
+I’m still using a Windows 7 system with aging hardware, which limits my ability to work on newer tools, test modern games like Starfield, or fully keep up with ESO modding. More and more software — including things like Steam, Discord, and Element — have dropped support for Windows 7, making it harder to stay current or collaborate effectively.
+
 ### About Me
 {{CONTENTS=3}}
 ## Other GitHub repositories:
-In addition to the main projects I work on I have a few repositories for things of interest to me.
+The following sections highlight some of the tools, repositories, and small side projects I’ve been involved with over the years. Some are actively maintained, others are preserved for historical or educational value, and a few were experiments that helped me learn more along the way.
 
 ### ESOUIMods:
-A collection of Elder Scrolls Online code and mods I have worked on or contributed to. The main contribution was my addition of filtering for [[https://www.esoui.com/downloads/info57-HarvestMapEsoheadMarkers.html | Harvest Map by Shinni]]. Shinni was the original author and has continued working on the mod. While I haven't used it in a while, I believe the filtering is still there. In the early days having extra nodes for harvest nodes increased your loading time. The filtering allows you to ignore things you were not interested in for your character.
+A collection of Elder Scrolls Online mods and utilities I've worked on or contributed to. My most notable contribution was adding a filtering system to [[https://www.esoui.com/downloads/info57-HarvestMapEsoheadMarkers.html | Harvest Map by Shinni]], allowing players to selectively show or hide node types based on their preferences. This was particularly useful back when loading large data sets could impact performance.
 
-The second thing I added was a way to import data from other people so you could share it. This was done with a separate mod HarvestMerge. I do not know how people merge data these days. Maybe with an update it could be useful again.
+I also created a companion tool called *HarvestMerge*, which let users import and combine gathering data from others. I'm not sure how people share data today, but with some updates, it might still have value.
 
+I’ve helped maintain and update over 20 ESO addons, including several widely used libraries and map tools. Some of these have been downloaded millions of times across the years, thanks to the community’s continued interest.
+
+#### Maintained AddOns:
+* Delete LibStub and Embedded libraries, PointsofColor, TurkishScrollsOnline (Türkçe), Advanced Nameplates
+* LibQuestData, Destinations, LibRecipe, Master Merchant 3.0, DarkUI
+* ConspicuousQuestMarkers, Tamriel Trade Centre Companion, LibMapData, Advanced Member Tooltip - LibHistoire
+* Importers for Master Merchant 3.0, MailR - Revised, ScuttleBuddy, ScrySpy, CraftAutoLoot
+
+#### Contributing Team Member:
+* Alchemy Tooltips, Community Leveling Guides, CustomCompassPins, Dryzler's LoreBooks (Beta)
+* EsoKR, EsoUA — Ukrainian Localization, Inventory Insight, LibAlchemy, LibMapPins
+* LibPrice, LoreBooks, Map Coordinates, Sieged Keeps, SkyShards
+* Slightly Improved™ Experience Bar, WritWorthy
+  
 {{nbb}}
     [[https://esouimods.github.io/ | ESOUIMods]]
 {{nbe}}
 
+
 ### TESnip-Skyrim-Edition
 
-While I would not want people to corrupt files and thus save games using this, I did find two volunteers to work on TESVSnip and try to improve it. Now either because of my requests or simply because it seemed like a lost cause the program was never improved enough for it to reliably work with Skyrim plugins. However, I keep this for historical reasons.
+This project exists primarily for historical purposes. I previously attempted to revive TESVSnip by finding volunteers to help improve it for use with Skyrim plugins. Two contributors, Leandor and SmaugNogardeht, assisted during that time. While there was some interest, the tool was never improved enough to be considered reliable, and I do not recommend using it for active mod development.
 
-<a href="https://github.com/TESnip-Skyrim-Edition/" class="drkbtn">TESnip-Skyrim-Edition</a>
+{{nbb}}
+    [[https://github.com/TESnip-Skyrim-Edition/ | TESnip-Skyrim-Edition]]
+{{nbe}}
 
 ### Elite Dangerous
-I prefer not to have favorites and I really have to work hard at it however, Elite is the game I adore the most. I have played every variation of the game. When Elite Dangerous came out I jumped at the chance to get the game and the Season Pass to get all the future content.
 
-There is one project I tried to work on but just couldn't keep up with it. [[https://bitbucket.org/kfsone/tradedangerous/src/master/ | Tradedangerous]] allows you to report to a database the current in game information. Once you have it you can then plan out a trade route of what to buy and sell to make money in the game. I have been thinking of updating this because I would like to start playing again. However, if there is a newer tool then I may end up using that. [[https://github.com/EliteDangerous/EDMarketConnector | EDMarketConnector]] is easier to use to track data prices. However, it does not have any function to help with trade routes.
+While I try not to have favorites, Elite Dangerous holds a special place for me — I’ve played every iteration of the game going back to the original. When Elite Dangerous launched, I picked it up immediately along with the Season Pass.
 
-<a href="https://github.com/EliteDangerous/" class="drkbtn">Elite Dangerous</a>
+I once tried contributing to [[https://bitbucket.org/kfsone/tradedangerous/src/master/ | TradeDangerous]], a project that helps players calculate trade routes based on in-game data. Although I couldn’t keep up with maintaining it, it was a great learning experience. These days, tools like [[https://github.com/EliteDangerous/EDMarketConnector | EDMarketConnector]] are easier to use for price tracking, but don’t offer full trade planning features. I may revisit this project if I return to the game seriously.
+
+{{nbb}}
+    [[https://github.com/EliteDangerous/ | Elite Dangerous]]
+{{nbe}}
 
 ### Python Musings
-My current collection of code snippets that I have collected. Some I made while trying to learn more Python and other things are forks of other projects.
 
-<a href="https://github.com/Python-Musings" class="drkbtn">Python-Musings</a>
+A mix of code snippets and forks — some made while learning, others for testing general-purpose tools unrelated to Elder Scrolls modding.
+
+{{nbb}}
+    [[https://github.com/Python-Musings | Python-Musings]]
+{{nbe}}
+
+### ESOlang
+
+Most of my Python development time now goes into maintaining tools that help automate Elder Scrolls Online addon translations — things like converting `.lang` files to `.po`, rebuilding translations, and fixing encoding issues. I also handle license cleanup, batch utilities, and parser fixes for addons used in Korean and Turkish localization projects.
+
+{{nbb}}
+    [[https://github.com/ESOUIMods/esolang | ESOlang]]
+{{nbe}}
 
 ### 010 Templates
 
-While decoding save game headers for Wrye Bash I ended up modifying a 010 template. [[https://www.sweetscape.com/ | 010 by sweetscape]] in an interesting program. You can view a binary file but at the same time you can them add some formatting to what you find to see it better. Basically it allowed me to see save games and view their basic format.
+While decoding save game headers for Wrye Bash, I modified a 010 Editor template to help visualize the file structure. [[https://www.sweetscape.com/ | 010 by SweetScape]] is a powerful binary editor that lets you apply formatting rules to binary data. It allowed me to better understand and inspect the layout of save files.
 
-<a href="https://github.com/010-Editor-Templates/" class="drkbtn">010-Editor-Templates</a>
+{{nbb}}
+    [[https://github.com/010-Editor-Templates/ | 010-Editor-Templates]]
+{{nbe}}
+
+### Tower of Shadows
+
+Tower of Shadows was a text-based adventure game I created for BBS systems. It let players fight monsters with other online users, and even allowed sysops and players to write their own adventures using nothing more than a plain text editor like `EDIT.COM`.
+
+Tower of Shadows  
+By: Daniel Holmes  
+Fight monsters with other online users. This is a text adventure game, where it will let your users write some adventures of their own. Use just their plain text editor, like "EDIT.COM".  
+This is Version 0.19b — Try it, I think you and your users will enjoy it.
+
+This game was written for MS-DOS systems and will likely require DOS emulation (like DOSBox) to run correctly. It may also depend on legacy components such as `ANSI.SYS` for proper screen display.
+
+{{nbb}}
+    [[ftp://archives.thebbs.org/door_games/doors_s-t/tower20b.zip | Download Tower of Shadows v0.19b]]
+{{nbe}}
 
 ## Autobiography
+
 Eventually once I figure out how to do it I will have a separate Bio page but for now this will have to do.
 
-My name is pronounced SHär-li-kran. I started working with BOSS on April 15 2012. While working with BOSS I was told there was no TES5Edit and nobody had been in touch with the author ElminsterAU. They also told me that I would never get the source code to the program because he guarded it as if he were the Troll in Three Billy Goats Gruff. However, with the help of people in the Skyrim community I was able to get a hold of Elminster and after asking for the Source code he gave it to me. He was not the evil troll others had made him out to be but a very kind individual and he was grateful there was someone willing to update TES5Edit. To this day he is very helpful and always answers my xEdit related questions.
+My name is pronounced Shar-li-kran (/ʃɑr lɪ kræn/). I started working with BOSS on April 15, 2012. While working with BOSS I was told there was no TES5Edit and nobody had been in touch with the author ElminsterAU. They also told me that I would never get the source code to the program because he guarded it as if he were the Troll in *Three Billy Goats Gruff*. However, with the help of people in the Skyrim community I was able to get a hold of Elminster and after asking for the source code, he gave it to me. He was not the evil troll others had made him out to be but a very kind individual, and he was grateful there was someone willing to update TES5Edit. To this day he is very helpful and always answers my xEdit-related questions.
 
-Starting with my first Bethesda post in regards to TES5Dump on June 26 2012, then later about July of 2012 work on TES5Edit finally became a group project when Zilav started helping and was released about October of the same year. During that time there was quite a fuss over TESVSnip and it was removed from the Nexus because of its flaws. I tried to get volunteers to fix it but in the end none of the major issues were ever resolved and still remain unresolved to this day. Anyone using TESVSnip or FalloutSnip, should repent their sins.
+Starting with my first Bethesda post in regards to TES5Dump on June 26, 2012, and later around July of that year, work on TES5Edit became a group project when Zilav started helping. The first release followed in October. Around that time, there was quite a fuss over TESVSnip, which was removed from Nexus due to unresolved issues. I attempted to revive it by finding volunteers, but the major problems were never fully resolved. Anyone using TESVSnip or FalloutSnip today should proceed with caution.
 
-These days I work on my own Bethesda mods, the various iterations of xEdit (TES5Edit, SSEEdit, FO4Edit, etc) and port record definitions to Wrye Bash/Flash. I very occasionally update the BOSS or LOOT masterlist. One way or another I work with devoted individuals on many different Bethesda related utilities all for the benefit of the players who enjoy Elder Scrolls and Fallout as much as I do.
+Over the years I’ve maintained various Bethesda-related utilities including multiple iterations of xEdit — TES5Edit, SSEEdit, FO4Edit, and more. I also helped port record definitions to Wrye Bash/Flash, contributed to the BOSS and LOOT masterlists, and assisted mod authors with plugin troubleshooting, SEQ file issues, and load order corrections. While I’m not as hands-on with these tools today as I once was, I remain involved in keeping some of the project infrastructure organized and publicly available.
+
+I'm publicly listed as a co-maintainer of xEdit on Nexus Mods, and my profile has received over 900,000 unique downloads. I also manage several GitHub organizations, including [[https://github.com/TES5Edit | TES5Edit]], [[https://github.com/010-Editor-Templates | 010-Editor-Templates]], and [[https://github.com/Python-Musings | Python-Musings]], helping to preserve modding tools and related resources for ongoing community use.
+
+Whether maintaining a utility or supporting others behind the scenes, I’ve always focused on improving the experience for players and modders who enjoy Elder Scrolls and Fallout as much as I do.
+
 
 ### Gaming History:
 
-I have tried Neverwinter, DDO, Warframe, EVE (hate this game), Elite Dangerous, but mostly played WOW. Aside from playing WOW and raiding for many years, my community involvement started with Bethesda games such as Morrowind, Fallout 3, FNV, FO4, Skyrim/SSE, and Oblivion. I don't think I could list every game I have played in the last 20 years. I don't have favorites and I can't explain why I have that philosophy. However, I did like Day of the Tentacle, Full Throttle, and Leisure Suit Larry from the early days.
+My first experiences with computers go back to grade school on a Commodore PET. From there I graduated to a Commodore 64, then a 128, and eventually to a Sears-bought Intel 386SX PC — likely one of their early Windows-capable systems. I started programming in BASIC on the Commodore systems, and later moved on to Borland Pascal on the 386. When Borland Pascal 7.0 introduced objects, it was the first time I had even heard of object-oriented programming. To this day, OOP is still a bit of a mystery to me. I never felt like I fully understood it, but I probably use it anyway without realizing it — since I write programs in Lua and Python all the time.
+
+I’ve tried games like Neverwinter, DDO, Warframe, EVE (which I hated), and Elite Dangerous — but I mostly played World of Warcraft. Aside from many years of raiding in WoW, my deeper community involvement began with Bethesda titles such as Morrowind, Fallout 3, New Vegas, Fallout 4, Skyrim/SSE, and Oblivion.
+
+I couldn’t possibly list every game I’ve played in the last 20 years. I don’t really have favorites, and I can’t explain why I have that philosophy — I just do. That said, I did enjoy classics like *Day of the Tentacle*, *Full Throttle*, and *Leisure Suit Larry* back in the day.
+
+These days, most of my time is spent working on Elder Scrolls Online projects. While I’ve stepped back from Skyrim modding for now, I’ve been thinking about getting back into single-player games again. Once I’m able to upgrade my computer, I plan to revisit modding for Skyrim, Fallout, and possibly Starfield, depending on what tools and opportunities are available.
 
 ### Interests and Hobbies:
 
-I have a family of 5 and I work with computers only. Tech support, Intel, and any computer based company I can get hired at. So I don't carve wood or work on cars. Because of my heavy computer and electronic background all of my five children play console and PC games also.
+I have a family of five, and my background has always been centered around computers and technology. I’ve worked in tech support, for Intel, and at just about any computer-based company I could get hired at. So no — I don’t carve wood or restore vintage cars.
+
+That said, I guess you could call me a shade tree mechanic. I’ve been helping my daughter keep her 2005 Acura TL alive — mostly because she keeps wrecking it or something breaks. Out of the four wheels, I’ve rebuilt the suspension on three of them. The only one I don’t think I’ve touched yet is the driver’s side rear tire.
+
+Because of my tech background, all five of my kids also play console and PC games — it runs in the family.
+
 
 ### Meaning of my name:
 
-I have always had the name Sharlikran even back when I ran a BBS. I played D&D and it was an Elf Character from The Elves of Alfheim. When I was actively running my BBS, I attending a BBS party for Halloween and we were asked to be our handle. So I went as an Elf, in full garb, cape, and pole arm which was really the pole from my closet I hung my clothes on. I think my tunic was a bit too short and was a bit too realistic compared to the pictures I saw in D&D books as it didn't hide much. I can't remember the BBS name but it had the name Heart in it, Heartbeats maybe. I won the contest for dressing as my Handle, which was my D&D Elf character. I won a calculator that at the time was probably the coolest thing I could have gotten.  Mainly because it had the ability to convert decimal to Hex.
+I’ve always used the name Sharlikran, going all the way back to when I ran a BBS. It originally came from a D&D Elf character in *The Elves of Alfheim* supplement.
+
+When I was actively running my BBS, I went to a Halloween BBS party where we were encouraged to dress as our handle. So I showed up as an Elf — full garb, cape, and even a polearm... which was actually the closet pole I used to hang my clothes on. My tunic may have been a bit too short and a little too “authentic” compared to the artwork in the D&D books — it didn’t leave much to the imagination.
+
+I can’t remember the exact BBS name, but I think it had the word *Heart* in it — maybe *Heartbeats*. Either way, I ended up winning the costume contest for dressing as my handle. The prize? A calculator — and at the time, that was about the coolest thing I could have gotten. It could even convert decimal to hex.
 
 ### Notable quote
 
@@ -73,7 +146,9 @@ A notable quote is from the title of the second autobiography by Richard Feynman
 
 ## First TES5Dump Posts
 
-[[http://forums.bethsoft.com/topic/1412754-wipz-tes5dumpfuture-tes5edit/ | Fourth TES5Dump Post]]
-[[http://forums.bethsoft.com/topic/1409718-wipz-tes5dumpfuture-tes5edit/ | Third TES5Dump Post]]
-[[http://forums.bethsoft.com/topic/1392239-wipz-tes5dumpfuture-tes5edit/ | Second TES5Dump Post]]
+[[http://forums.bethsoft.com/topic/1412754-wipz-tes5dumpfuture-tes5edit/ | Fourth TES5Dump Post]]  
+[[http://forums.bethsoft.com/topic/1409718-wipz-tes5dumpfuture-tes5edit/ | Third TES5Dump Post]]  
+[[http://forums.bethsoft.com/topic/1392239-wipz-tes5dumpfuture-tes5edit/ | Second TES5Dump Post]]  
 [[http://forums.bethsoft.com/topic/1388475-wipz-tes5dumpfuture-tes5edit/ | First TES5Dump Post]]
+
+These links are broken now, but I’ve archived the original HTML and screenshots and plan to restore the content in some form later so others can see the early development of TES5Edit.
