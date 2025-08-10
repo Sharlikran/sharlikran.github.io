@@ -8,6 +8,18 @@ If you're curious about my current system specs, you can [[https://pastebin.com/
     [[https://www.nexusmods.com/users/4147439 | Thanks]]
 {{nbe}}
 
+### A Moment of Realization
+
+I was recently talking to a younger coworker, someone I assumed was in his 20s. I greeted him, and his response was so quiet it was almost inaudible. Without thinking, I replied, "Okay, Corbin Dallas," referencing ~~The Fifth Element~~.
+
+He hadn’t seen the movie — which surprised me, given its popularity. After I told him the title, he pulled out his phone, Googled it, and replied in an even tone of incredulity:
+
+[[bb:Quote]]
+I don’t think my parents were dating at the time!
+[[be:]]
+
+Celebrities are often asked, "When did you realize you were famous?" If I’m ever interviewed, this will be the moment I realized I was old. Because now, before I ask a young person anything, I have to first ask myself: ~~Were their parents dating at the time?~~ And, more importantly: **Were their parents even born at the time?**
+
 ### System Limitations and Future Plans
 
 I’m still using a Windows 7 system with aging hardware, which limits my ability to work on newer tools, test modern games like Starfield, or fully keep up with ESO modding. More and more software — including things like Steam, Discord, and Element — have dropped support for Windows 7, making it harder to stay current or collaborate effectively.
