@@ -34,6 +34,8 @@ I plan to keep my Windows 7 computer as it is my “Microsoft screwdriver.” Th
 
 Chen, Raymond. “The Magical Excel 97 Far East Language Build Screwdriver.” ~~The Old New Thing~~, 19 Nov. 2019. Accessed 10 Aug. 2025. [[https://devblogs.microsoft.com/oldnewthing/20191119-00/?p=103115 | The Old New Thing]]
 
+While I don’t have to wedge a screwdriver into my power button to keep my machine alive, I do have my own “vintage build lab” of sorts. My Windows 7 setup still compiles the Python 2.7 version of Wrye Bash without complaint, and several tools in my workflow simply wouldn’t behave properly on Windows 10 or newer. It may be old, but it’s still the right tool for the job.
+
 ### About Me
 {{CONTENTS=3}}
 ## Other GitHub repositories:
