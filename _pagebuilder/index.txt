@@ -28,6 +28,12 @@ I’m still using a Windows 7 system with aging hardware, which limits my abilit
     [[https://secure.newegg.com/wishlist/pd/23797158 | System Upgrade Wishlist]]
 {{nbe}}
 
+### My Microsoft Screwdriver
+
+I plan to keep my Windows 7 computer as it is my “Microsoft screwdriver.” This term comes from a story where a critical Microsoft build machine wouldn’t stay powered on — the switch kept clicking off. To keep the system running long enough to compile the code, someone jammed a screwdriver into the power switch. The machine stayed on, and the build was saved.
+
+Chen, Raymond. “The Magical Excel 97 Far East Language Build Screwdriver.” ~~The Old New Thing~~, 19 Nov. 2019. Accessed 10 Aug. 2025. [[https://devblogs.microsoft.com/oldnewthing/20191119-00/?p=103115 | The Old New Thing]]
+
 ### About Me
 {{CONTENTS=3}}
 ## Other GitHub repositories:
