@@ -8,6 +8,8 @@ If you're curious about my current system specs (Window 7 and a Gen 1 CPU), you 
     [[https://www.nexusmods.com/profile/Sharlikran | Thanks]]
 {{nbe}}
 
+{{note:I was able to obtain a legitimate copy of Windows 10; the rest of my system remains the same.}}
+
 ### A Moment of Realization
 
 I was recently talking to a younger coworker, someone I assumed was in his 20s. I greeted him, and his response was so quiet it was almost inaudible. Without thinking, I replied, "Okay, Corbin Dallas," referencing ~~The Fifth Element~~.
